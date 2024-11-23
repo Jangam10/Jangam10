@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jangam10&label=Profile%20views&color=0e75b6&style=flat" alt="jangam10" /> </p>
 
-- 🔭 I’m currently 4th year Computer Engineering Student at **Kathmandu University**
+- 🔭 I’m currently associate data engineer at **Cedar Gate Technologies**
 
 - 🌱 I’m currently learning **Data Analytics**
 
